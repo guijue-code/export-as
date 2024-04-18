@@ -16,6 +16,7 @@ class WordExports {
       headerName: "my name is header",
       maxWidth: 624,
       toImg: "",
+      landscape:true,
       suffix: "doc",
       success() {},
     };

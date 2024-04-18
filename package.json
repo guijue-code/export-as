@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "HTML导出为word,pdf,复杂表格导出",
   "type": "module",
-  "main": "lib/export-as.js",
+  "main": "lib/export-as.min.js",
   "files": [
     "lib"
   ],
