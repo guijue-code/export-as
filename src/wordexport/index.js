@@ -1,7 +1,3 @@
-// import saveAs from 'file-saver'
-// import html2canvas from 'html2canvas';
-// import wordexport from './wordExport';
-
 const saveAs = require("file-saver");
 const html2canvas = require("html2canvas");
 const wordexport = require("./wordExport");
@@ -18,7 +14,7 @@ class WordExports {
       toImg: "",
       landscape:true,
       suffix: "doc",
-      success() {},
+      success:function() {},
     };
     this.config = {};
     this.dom = wordDom;

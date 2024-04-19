@@ -1,6 +1,6 @@
 {
   "name": "export-as",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTML导出为word,pdf,复杂表格导出",
   "type": "module",
   "main": "lib/export-as.min.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizardDevil/export-as"
+    "url": "git+https://github.com/guijue-code/export-as.git"
   },
   "dependencies": {
     "file-saver": "^2.0.5",

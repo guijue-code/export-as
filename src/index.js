@@ -26,7 +26,9 @@ const exportWord = async (domElem, config) => {
   wordExports.exportWord();
 };
 // 导出pdf
-const exportPdf = () => {};
+const exportPdf = () => {
+  window.print();
+};
 // 导出excel
 const exportExcel = () => {};
 
